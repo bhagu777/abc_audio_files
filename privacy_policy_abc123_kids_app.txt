@@ -1,0 +1,84 @@
+Privacy Policy
+
+Last updated: 24/02/2026
+
+Thank you for using our Abc123 - Alphabet for Kids. Your privacy and
+your child’s safety are extremely important to us. This Privacy Policy
+explains how we handle information when you use our application.
+
+------------------------------------------------------------------------
+
+1.  Information We Collect
+
+Our app is designed for children and educational purposes. We do NOT
+collect personal information such as:
+
+-   Name
+-   Email address
+-   Phone number
+-   Location data
+-   Photos or contacts
+
+We only use basic app functionality required for smooth performance.
+
+------------------------------------------------------------------------
+
+2.  Children’s Privacy
+
+This app is intended for kids learning (ABC, Numbers, Shapes, Colors,
+etc.). We strictly follow Google Play Families Policy and COPPA
+guidelines:
+
+-   No personal data collection from children
+-   No behavioral advertising
+-   No unnecessary permissions
+
+------------------------------------------------------------------------
+
+3.  Audio & Media Usage
+
+The app may include background music or educational sounds to improve
+the learning experience.
+
+These sounds:
+
+-   Run locally on the device
+-   Do not record audio
+-   Do not collect any user data
+
+------------------------------------------------------------------------
+
+4.  Third-Party Services
+
+Our app may use trusted services such as:
+
+-   Google Play Services (basic app functionality)
+
+These services follow their own privacy policies.
+
+------------------------------------------------------------------------
+
+5.  Data Security
+
+Since we do not collect personal data, your information remains safe. We
+still follow standard security practices to ensure a safe user
+experience.
+
+------------------------------------------------------------------------
+
+6.  Changes to This Policy
+
+We may update this Privacy Policy if required by law or app updates. Any
+changes will be reflected here with a revised date.
+
+------------------------------------------------------------------------
+
+7.  Contact Us
+
+If you have any questions about this Privacy Policy, you can contact us:
+
+Email: bhagusheladiya101@gmail.com
+
+------------------------------------------------------------------------
+
+By using this app, you agree to this Privacy Policy.
